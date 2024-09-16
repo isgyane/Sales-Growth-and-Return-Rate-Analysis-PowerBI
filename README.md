@@ -2,6 +2,9 @@
 
 Businesses require robust analytical tools to derive insights from their sales data. This project focuses on conducting a time intelligence analysis using Power BI, leveraging an extended sales dataset. The primary goal is to analyze sales trends over time, calculate year-on-year growth, and provide actionable insights for strategic decision-making.
 
+![Overview Page](images/Overview Page.jpg)
+
+
 ## Data Overview
 
 The dataset used for this analysis includes comprehensive sales records, with the following key columns:
