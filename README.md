@@ -2,7 +2,7 @@
 
 Businesses require robust analytical tools to derive insights from their sales data. This project focuses on conducting a time intelligence analysis using Power BI, leveraging an extended sales dataset. The primary goal is to analyze sales trends over time, calculate year-on-year growth, and provide actionable insights for strategic decision-making.
 
-![Overview Page](images/Overview Page.jpg)
+![Overview Page](images/Overview%20Page.jpg)
 
 
 ## Data Overview
@@ -95,6 +95,8 @@ A variety of visuals were created to provide actionable insights from the sales 
 - **Sales Consistency**: Sales during weekdays and weekends were similar, showing a stable purchasing pattern.
 - **Top-Selling Product Categories**: Books were the most sold category, followed by Electronics.
 - **Average Return Rate**: The overall average return rate was 3.01% over the four-year period, with minimal variability. Clothing was the most returned product category, with a significant return rate of **3.45% in 2024**.
+
+  ![Overview Page](images/Overview%20Page.gif)
 
 These insights help identify key trends in customer behavior, product performance, and return management, all of which can inform strategic business decisions.
 
