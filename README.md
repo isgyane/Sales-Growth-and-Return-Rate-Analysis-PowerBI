@@ -96,6 +96,8 @@ A variety of visuals were created to provide actionable insights from the sales 
 - **Top-Selling Product Categories**: Books were the most sold category, followed by Electronics.
 - **Average Return Rate**: The overall average return rate was 3.01% over the four-year period, with minimal variability. Clothing was the most returned product category, with a significant return rate of **3.45% in 2024**.
 
+  ![Overview Page](/images/Overview%20Page.gif)
+
 These insights help identify key trends in customer behavior, product performance, and return management, all of which can inform strategic business decisions.
 
 ## Conclusion
